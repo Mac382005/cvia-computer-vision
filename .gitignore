@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+*-env/
+# IDEs
+.idea/
+.vscode/
+# OS
+.DS_Store
+Thumbs.db
+# Datasets (download separately, see README)
+assignment1-image-segmentation/Oxford-IIIT Pet Subset/
+assignment2-bird-classification/data/*
+!assignment2-bird-classification/data/.gitkeep
+# Trained models (too large for git)
+*.keras
+*.h5
+assignment2-bird-classification/outputs/*.joblib

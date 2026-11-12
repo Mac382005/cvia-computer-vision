@@ -1,0 +1,2 @@
+Experiment,Method,Input Type,Accuracy,Accuracy (%),Test Loss
+Experiment 2,MobileNetV2 Transfer Learning,Whole Image,0.5372799634933472,53.72799634933472,1.6740268468856812

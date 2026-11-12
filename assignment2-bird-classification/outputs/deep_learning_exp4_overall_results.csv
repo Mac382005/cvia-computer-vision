@@ -1,0 +1,2 @@
+Experiment,Method,Input Type,Accuracy,Accuracy (%),Test Loss
+Experiment 4,MobileNetV2 Transfer Learning,Bounding Box Crop,0.607697606086731,60.769760608673096,1.4128574132919312

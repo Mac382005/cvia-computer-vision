@@ -1,0 +1,21 @@
+experiment,class_id,class_name,test_images,correct_predictions,class_accuracy,class_accuracy_percent,group
+Experiment 3: Bounding Box HOG + SVM,187,187.American_Three_toed_Woodpecker,20,9,0.45,45.0,Top 10
+Experiment 3: Bounding Box HOG + SVM,105,105.Whip_poor_Will,19,8,0.42105263157894735,42.10526315789473,Top 10
+Experiment 3: Bounding Box HOG + SVM,83,083.White_breasted_Kingfisher,30,12,0.4,40.0,Top 10
+Experiment 3: Bounding Box HOG + SVM,101,101.White_Pelican,20,8,0.4,40.0,Top 10
+Experiment 3: Bounding Box HOG + SVM,28,028.Brown_Creeper,29,11,0.3793103448275862,37.93103448275862,Top 10
+Experiment 3: Bounding Box HOG + SVM,53,053.Western_Grebe,30,11,0.36666666666666664,36.666666666666664,Top 10
+Experiment 3: Bounding Box HOG + SVM,89,089.Hooded_Merganser,30,11,0.36666666666666664,36.666666666666664,Top 10
+Experiment 3: Bounding Box HOG + SVM,22,022.Chuck_will_Widow,26,9,0.34615384615384615,34.61538461538461,Top 10
+Experiment 3: Bounding Box HOG + SVM,7,007.Parakeet_Auklet,23,7,0.30434782608695654,30.434782608695656,Top 10
+Experiment 3: Bounding Box HOG + SVM,100,100.Brown_Pelican,30,9,0.3,30.0,Top 10
+Experiment 3: Bounding Box HOG + SVM,16,016.Painted_Bunting,28,0,0.0,0.0,Bottom 10
+Experiment 3: Bounding Box HOG + SVM,11,011.Rusty_Blackbird,30,0,0.0,0.0,Bottom 10
+Experiment 3: Bounding Box HOG + SVM,10,010.Red_winged_Blackbird,30,0,0.0,0.0,Bottom 10
+Experiment 3: Bounding Box HOG + SVM,15,015.Lazuli_Bunting,28,0,0.0,0.0,Bottom 10
+Experiment 3: Bounding Box HOG + SVM,9,009.Brewer_Blackbird,29,0,0.0,0.0,Bottom 10
+Experiment 3: Bounding Box HOG + SVM,21,021.Eastern_Towhee,30,0,0.0,0.0,Bottom 10
+Experiment 3: Bounding Box HOG + SVM,19,019.Gray_Catbird,29,0,0.0,0.0,Bottom 10
+Experiment 3: Bounding Box HOG + SVM,20,020.Yellow_breasted_Chat,29,0,0.0,0.0,Bottom 10
+Experiment 3: Bounding Box HOG + SVM,25,025.Pelagic_Cormorant,30,0,0.0,0.0,Bottom 10
+Experiment 3: Bounding Box HOG + SVM,29,029.American_Crow,30,0,0.0,0.0,Bottom 10

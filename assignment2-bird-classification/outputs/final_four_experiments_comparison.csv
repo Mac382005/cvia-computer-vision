@@ -1,0 +1,5 @@
+Experiment,Method,Input Type,Accuracy,Accuracy (%)
+Experiment 1,HOG + Linear SVM,Whole Image,0.0270969968933379,2.7096996893337937
+Experiment 2,MobileNetV2 Transfer Learning,Whole Image,0.5372799634933472,53.72799634933472
+Experiment 3,HOG + Linear SVM,Bounding Box Crop,0.082153952364515,8.215395236451501
+Experiment 4,MobileNetV2 Transfer Learning,Bounding Box Crop,0.607697606086731,60.769760608673096

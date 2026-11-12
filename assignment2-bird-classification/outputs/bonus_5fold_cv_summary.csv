@@ -1,0 +1,2 @@
+experiment,method,input_type,mean_accuracy,mean_accuracy_percent,std_accuracy,std_accuracy_percent
+Experiment 3,HOG + Linear SVM,Bounding Box Crop,0.09424884567759292,9.424884567759293,0.005274428197293306,0.5274428197293306

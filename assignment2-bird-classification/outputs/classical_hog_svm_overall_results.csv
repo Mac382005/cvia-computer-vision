@@ -1,0 +1,3 @@
+Experiment,Method,Input Type,Feature Type,Classifier,Training Time (s),Accuracy,Accuracy (%)
+Experiment 1,HOG + Linear SVM,Whole Image,HOG,Linear SVM using SGD,196.8230586051941,0.027096996893337937,2.7096996893337937
+Experiment 3,HOG + Linear SVM,Bounding Box Crop,HOG,Linear SVM using SGD,175.17109060287476,0.08215395236451502,8.215395236451501

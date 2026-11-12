@@ -1,0 +1,21 @@
+experiment,class_id,class_name,test_images,correct_predictions,class_accuracy,class_accuracy_percent,group
+Experiment 1: Whole Image HOG + SVM,6,006.Least_Auklet,11,3,0.2727272727272727,27.27272727272727,Top 10
+Experiment 1: Whole Image HOG + SVM,28,028.Brown_Creeper,29,6,0.20689655172413793,20.689655172413794,Top 10
+Experiment 1: Whole Image HOG + SVM,145,145.Elegant_Tern,30,6,0.2,20.0,Top 10
+Experiment 1: Whole Image HOG + SVM,110,110.Geococcyx,30,6,0.2,20.0,Top 10
+Experiment 1: Whole Image HOG + SVM,113,113.Baird_Sparrow,20,3,0.15,15.0,Top 10
+Experiment 1: Whole Image HOG + SVM,184,184.Louisiana_Waterthrush,30,4,0.13333333333333333,13.333333333333334,Top 10
+Experiment 1: Whole Image HOG + SVM,37,037.Acadian_Flycatcher,29,3,0.10344827586206896,10.344827586206897,Top 10
+Experiment 1: Whole Image HOG + SVM,46,046.Gadwall,30,3,0.1,10.0,Top 10
+Experiment 1: Whole Image HOG + SVM,86,086.Pacific_Loon,30,3,0.1,10.0,Top 10
+Experiment 1: Whole Image HOG + SVM,88,088.Western_Meadowlark,30,3,0.1,10.0,Top 10
+Experiment 1: Whole Image HOG + SVM,2,002.Laysan_Albatross,30,0,0.0,0.0,Bottom 10
+Experiment 1: Whole Image HOG + SVM,3,003.Sooty_Albatross,28,0,0.0,0.0,Bottom 10
+Experiment 1: Whole Image HOG + SVM,4,004.Groove_billed_Ani,30,0,0.0,0.0,Bottom 10
+Experiment 1: Whole Image HOG + SVM,5,005.Crested_Auklet,14,0,0.0,0.0,Bottom 10
+Experiment 1: Whole Image HOG + SVM,15,015.Lazuli_Bunting,28,0,0.0,0.0,Bottom 10
+Experiment 1: Whole Image HOG + SVM,12,012.Yellow_headed_Blackbird,26,0,0.0,0.0,Bottom 10
+Experiment 1: Whole Image HOG + SVM,11,011.Rusty_Blackbird,30,0,0.0,0.0,Bottom 10
+Experiment 1: Whole Image HOG + SVM,9,009.Brewer_Blackbird,29,0,0.0,0.0,Bottom 10
+Experiment 1: Whole Image HOG + SVM,25,025.Pelagic_Cormorant,30,0,0.0,0.0,Bottom 10
+Experiment 1: Whole Image HOG + SVM,24,024.Red_faced_Cormorant,22,0,0.0,0.0,Bottom 10
